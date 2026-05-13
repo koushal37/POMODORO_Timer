@@ -19,32 +19,6 @@ Stay focused. Rest well.
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v18+)
-- npm
-
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/SONALI-2027/Pomodoro-timer-.git
-
-# Navigate into the project
-cd Pomodoro-timer-
-
-# Install dependencies
-npm install
-
-# Start the dev server
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
 ## Build for Production
 
 ```bash
